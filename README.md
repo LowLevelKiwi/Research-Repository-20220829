@@ -1,5 +1,4 @@
-# psychic-spork
-*This is for CERT in I.T Level 5*
+# Research-Repository
 
 This is my repositrory for the Research Repository assesment,
 In this repo i have two different things, a function that will convert a matrix of numbers into an Ascii Image art as well as two different types of sorts a bubble sort and a quick sort
