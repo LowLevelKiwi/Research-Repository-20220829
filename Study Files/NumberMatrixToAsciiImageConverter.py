@@ -1,7 +1,6 @@
 # This function converts a matrix of numbers 0 - 13 into an image using symbols 
-#
-#
 
+# this defines the function to be used elsewhere
 def Convert(image):
     pic = '' # creates an empty string to hold the Converted picture
 
