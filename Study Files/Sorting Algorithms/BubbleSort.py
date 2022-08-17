@@ -22,7 +22,7 @@ def bubble_sort(array):
         # this is used so that the function will continue to loop through items
         sorted = False
 
-    # this will only call if the array is sorted and is used to stop the for loop so that it doesnt make unnecisary repeats 
+    # this will only call if the array is sorted and is used to stop the for loop so that it doesnt make unnecessary repeats 
     if sorted: break
 
   # this will return the sorted array

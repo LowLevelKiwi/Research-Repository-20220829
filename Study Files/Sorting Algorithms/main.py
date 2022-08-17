@@ -1,4 +1,4 @@
-# these import the required files so that i can create a random array and also use the quick and bubble sorts functions i defined in the other files in this folder
+# these import the required files so that i can create a random array and also use the quick and bubble sort functions I defined in the other files in this folder
 from random import randint
 from BubbleSort import bubble_sort
 from QuickSort import quick_sort

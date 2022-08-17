@@ -17,12 +17,13 @@ def quick_sort(array):
   pivot = array[randint(0, len(array) - 1)]
 
   # this loops through every item in the array and sorts the into three groups
-  # Low: all the items that are lower than the selected pivot
-  # Same: all items that have the same value as the pivot including the pivot
-  # High all items higher than the pivot
+  
   for item in array:
+    # Low: all the items that are lower than the selected pivot
     if item < pivot: low.append(item)
+    # Same: all items that have the same value as the pivot including the pivot
     elif item == pivot: same.append(item)
+    # High all items higher than the pivot
     else : high.append(item)
 
   # this will repeatedly call itself until the function reachs the point where the childeren functions start returning an array with 0 - 1 items
