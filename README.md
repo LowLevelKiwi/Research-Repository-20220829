@@ -38,12 +38,12 @@ Some OOP languages can also allows for deeply nested inheritence, so going back 
 Also some OOP languages also allows for a class to inherit from two different classes like a class of bat could inherit mammal as well as a class for a winged animal
 ```
 Inheritence Example
-level:
-1           Mammal     Winged animal
-           /      \   /
-2    Person        Bat
-        |
-3   Mechanic
+Inheritence level:
+1                                 Mammal     Winged animal
+                                 /      \   /
+2                          Person        Bat
+                              |
+3                         Mechanic
 ```
 
 ## What is Python
