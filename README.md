@@ -37,6 +37,15 @@ these new methods aren't apart of the orignal person class so any other class th
 Some OOP languages can also allows for deeply nested inheritence, so going back to the mechanic analogy, if there was a class that only inherited the mechanic class it would still also inherit the person class, the same goes for if the person class also inherited from another class lets say mammal, then the class that inherits only the mehcanic class would still have access to the mammal classes variables / methods.
 Also some OOP languages also allows for a class to inherit from two different classes like a class of bat could inherit mammal as well as a class for a winged animal
 
+> Inheritence Example
+>level:
+>1           Mammal     Winged animal 
+>           /      \   /
+>2    Person        Bat
+>        |
+>3   Mechanic
+>
+
 ## What is Python
 
 Python is a "Dynamicly Typed" type of high level programing languge, high level meaning it is desiged to be as readable as functionaly possible, it is designed to be able to support multiple different programming styles like Structured and Object-Oreiented Programing, because of this it has a wide array of uses from machine learing to game design to web pages,
