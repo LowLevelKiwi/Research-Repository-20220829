@@ -37,13 +37,13 @@ these new methods aren't apart of the orignal person class so any other class th
 Some OOP languages can also allows for deeply nested inheritence, so going back to the mechanic analogy, if there was a class that only inherited the mechanic class it would still also inherit the person class, the same goes for if the person class also inherited from another class lets say mammal, then the class that inherits only the mehcanic class would still have access to the mammal classes variables / methods.
 Also some OOP languages also allows for a class to inherit from two different classes like a class of bat could inherit mammal as well as a class for a winged animal
 
-> Inheritence Example
->level:
->1           Mammal     Winged animal 
->           /      \   /
->2    Person        Bat
->        |
->3   Mechanic
+> Inheritence Example \n
+>level: \n
+>1           Mammal     Winged animal \n
+>           /      \   / \n
+>2    Person        Bat \n
+>        | \n
+>3   Mechanic \n
 >
 
 ## What is Python
