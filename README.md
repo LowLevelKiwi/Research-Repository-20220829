@@ -36,15 +36,15 @@ The mechanic class inheriting this also has access to these base varibles / meth
 these new methods aren't apart of the orignal person class so any other class that inherits the person class doesn't have access to the mechainc methods and variables them unless they also inherit the mehcanic class,
 Some OOP languages can also allows for deeply nested inheritence, so going back to the mechanic analogy, if there was a class that only inherited the mechanic class it would still also inherit the person class, the same goes for if the person class also inherited from another class lets say mammal, then the class that inherits only the mehcanic class would still have access to the mammal classes variables / methods.
 Also some OOP languages also allows for a class to inherit from two different classes like a class of bat could inherit mammal as well as a class for a winged animal
-
-> Inheritence Example__
->level:__
->1           Mammal     Winged animal__
->           /      \   /__
->2    Person        Bat__
->        |__
->3   Mechanic__
->
+```
+Inheritence Example
+level:
+1           Mammal     Winged animal
+           /      \   /
+2    Person        Bat
+        |
+3   Mechanic
+```
 
 ## What is Python
 
