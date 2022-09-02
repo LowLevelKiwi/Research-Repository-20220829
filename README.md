@@ -1,17 +1,14 @@
 # Research-Repository
 
 This is my repositrory for the Research Repository assesment,
-In this repo I have two different things, a function that will convert a matrix of numbers into an Ascii Image art as well as two different types of sorts a bubble sort and a quick sort
-
-I chose these to do my research on because I've always wanted to learn a bit more about how sorting algorythims worked, and I liked trying to make ascii images so I thought of a way to make creating them easier by using matrixs of numbers 
-
+In this repo I have two different things, a function that will convert a matrix of numbers into an Ascii Image art as well as two different types of sorts a bubble sort and a quick sort.
+I chose these to do my research on because I've always wanted to learn a bit more about how sorting algorythims worked, and I liked trying to make ascii images so I thought of a way to make creating them easier by using matrixs of numbers.
 I got the Python sorting algorithyms code from https://realpython.com/sorting-algorithms-python/
-
-and I was inspired by the "Compete python Development Zero To Mastery udemy series video 76 Our first gui" for the Ascii image generator
+and I was inspired by the "Compete python Development Zero To Mastery udemy series video 76 Our first gui" for the Ascii image generator.
 
 ## Ascii Image Generator
 
-the Ascii Image Generator works by inputting a matrix of numbers between 0 - 13, and it will then split the matrix into its rows and for each number in the row it will convert it into its asscoiated string and add it to an accumulitve string adding a new line symbol for each row, then once it has proccessed all the rows it will return the accumulitive string so that it can be used elsewhere 
+the Ascii Image Generator works by inputting a matrix of numbers between 0 - 13, and it will then split the matrix into its rows and for each number in the row it will convert it into its asscoiated string and add it to an accumulitve string adding a new line symbol for each row, then once it has proccessed all the rows it will return the accumulitive string so that it can be used elsewhere.
 
 ## Bubble Sort Algorithm
 
@@ -48,7 +45,7 @@ Inheritence level:
 
 ## What is Python
 
-Python is a "Dynamicly Typed" type of high level programing languge, high level meaning it is desiged to be as readable as functionaly possible, it is designed to be able to support multiple different programming styles like Structured and Object-Oreiented Programing, because of this it has a wide array of uses from machine learing to game design to web pages,
+Python is a "Dynamicly Typed" type of high level programing languge, high level meaning it is desiged to be as readable as functionaly possible, it is designed to be able to support multiple different programming styles like Structured and Object-Oreiented Programing, because of this it has a wide array of uses from machine learing to game design to web pages.
 
 
 
